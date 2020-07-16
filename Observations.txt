@@ -1,0 +1,37 @@
+1. Details of the course having the maximum number of subscribers
+
+ID : 41295
+Name : Learn HTML5 Programming From Scratch
+Subject : Web Development
+Free : Yes
+Subscribers : 268923
+Reviews : 8629
+No. of lectures : 45
+Level : All
+Content duration : 10.5
+Published on : 2013-02-14T07:03:41Z
+
+2. Number of courses having zero subscribers = 70
+
+3. Maximum number of courses (1200) are on Web Development
+
+4. Yearwise number of subscribers
+
+2011     119028
+2012     555339
+2013    1723438
+2014    1930406
+2015    3475324
+2016    2966644
+2017     988941
+
+5. Decreasing order of total number of subscribers in each subject
+
+Web Development        7980572
+Business Finance       1868711
+Graphic Design         1063148
+Musical Instruments     846689
+
+6. Every year, maximum number of people take courses on Web Development.
+
+7. The total number of subscribers increased from 2011 to 2015 after which, it started decreasing.
